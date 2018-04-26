@@ -1,0 +1,12 @@
+C:\Users\i3i\Documents\GitHub\ListaFor\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe.config
+C:\Users\i3i\Documents\GitHub\ListaFor\ExemploFor\ExemploFor\obj\Debug\ExemploFor.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\GitHub\ListaFor\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe
+C:\Users\i3i\Documents\GitHub\ListaFor\ExemploFor\ExemploFor\bin\Debug\ExemploFor.pdb
+C:\Users\i3i\Documents\GitHub\ListaFor\ExemploFor\ExemploFor\obj\Debug\ExemploFor.exe
+C:\Users\i3i\Documents\GitHub\ListaFor\ExemploFor\ExemploFor\obj\Debug\ExemploFor.pdb
+C:\Users\i3i\Documents\GitHub\ExemploFor\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe.config
+C:\Users\i3i\Documents\GitHub\ExemploFor\ExemploFor\ExemploFor\obj\Debug\ExemploFor.exe
+C:\Users\i3i\Documents\GitHub\ExemploFor\ExemploFor\ExemploFor\obj\Debug\ExemploFor.pdb
+C:\Users\i3i\Documents\GitHub\ExemploFor\ExemploFor\ExemploFor\bin\Debug\ExemploFor.exe
+C:\Users\i3i\Documents\GitHub\ExemploFor\ExemploFor\ExemploFor\bin\Debug\ExemploFor.pdb
+C:\Users\i3i\Documents\GitHub\ExemploFor\ExemploFor\ExemploFor\obj\Debug\ExemploFor.csprojResolveAssemblyReference.cache
